@@ -1,0 +1,1 @@
+to run this web application open the folder through command prompt "cmd" and write the following command "code ." it will be opened into visual studio, and to run the application open the file written index.html or home.html and run the code
